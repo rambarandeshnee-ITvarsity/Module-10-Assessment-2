@@ -193,7 +193,7 @@ display: inline-block;
     
     #recipe{
         width:80%;
-        margin: auto;
+        margin: :auto;
     }
 }
 
@@ -206,7 +206,7 @@ display: inline-block;
     
     #recipe{
         width:60%;
-        margin:auto;
+        margin: :auto;
     }
 }
 
@@ -219,9 +219,9 @@ display: inline-block;
     
     #recipe{
         width:40%;
-        margin: auto;
+        margin: :auto;
     }
-
+}
 
 @media only screen and(min-width:1000px)
 {
@@ -234,5 +234,4 @@ display: inline-block;
     {
         background-image: url('Images/background-02-port.png');
     }
-
-    
+}
